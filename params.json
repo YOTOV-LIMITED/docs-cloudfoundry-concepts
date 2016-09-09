@@ -1,0 +1,6 @@
+{
+  "name": "Docs-cloudfoundry-concepts",
+  "tagline": "A place for architecture and concept docs",
+  "body": "# Cloud Foundry Concepts Guide\r\n\r\nThis repository contains the Cloud Foundry concepts guide, designed to help users and others understand how Cloud Foundry works.\r\n\r\nThe contents here are structured as a topic repository intended to be\r\ncompiled into a larger document with\r\n[Bookbinder](http://github.com/cloudfoundry-incubator/bookbinder).\r\n\r\nSee the [docs-book-cloudfoundry](http://github.com/cloudfoundry/docs-book-cloudfoundry)\r\nrepo for the complete list of open source documentation repositories, as well as\r\ninformation about the publishing process.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
